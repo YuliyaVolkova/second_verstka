@@ -1,0 +1,9 @@
+.c-contact-info {
+	font-weight: bold;
+	text-align: right;
+}
+.c-contact-info__tel-link {
+	color: #fff;
+	font-size: 1.3125em;
+	text-transform: uppercase;
+}

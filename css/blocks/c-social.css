@@ -1,0 +1,62 @@
+.c-social {
+	font-size: 0.875rem;
+	text-align: left;
+}	
+
+.c-social__header {
+	font-weight: bold;
+	line-height: 1.2em; 
+	margin-bottom: 0.3571em;	
+}
+
+.c-social__list {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.c-social__item {
+	display: inline-block;
+	vertical-align: middle;
+	width: 1.5714em;
+	height: 1.5714em;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-right: 0.5714em;
+	margin-bottom: 0.2142em;
+}
+
+.c-social__link {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: #d4d4d8;
+	background-size: 1.2em auto;
+	transition: background-color 0.3s;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.c-social__link:hover {
+	background-color: #ec1e79;
+}
+
+.c-social__link--svg-background-facebook {
+	background-image: url(../../images/public/sprites/sprite_img.svg#facebook); 
+	background-size: auto 1.2em;
+}
+
+.c-social__link--svg-background-vkontakte {
+	background-image: url(../../images/public/sprites/sprite_img.svg#vkontakte);	
+}
+
+.c-social__link--svg-background-googleplus {
+	background-image: url(../../images/public/sprites/sprite_img.svg#googlePlus)	
+}
+
+.c-social__link--svg-background-twitter {
+	background-image: url(../../images/public/sprites/sprite_img.svg#twitter);
+}
+
+.c-social__link--svg-background-email {
+	background-image: url(../../images/public/sprites/sprite_img.svg#mail);
+}

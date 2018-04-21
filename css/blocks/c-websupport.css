@@ -1,0 +1,10 @@
+.c-websupport {
+	font-size: 0.875rem;
+	text-align: left;
+	line-height: 1.2857em;
+}
+.c-websupport a {
+	color: #fff;
+	text-decoration: underline;
+	font-weight: bold;
+}

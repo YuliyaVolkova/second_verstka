@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="googlePlus" width="33" height="36" version="1.1" viewBox="0 0 33 36" xmlns="http://www.w3.org/2000/svg">
+ <title>GooglePlus</title>
+ <defs>
+  <clipPath id="clipPath18">
+   <path d="M 0,37.272 H 60.543 V 0 H 0 Z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(.51911 0 0 -.51911 .7212 27.692)">
+  <g clip-path="url(#clipPath18)">
+   <g transform="translate(18.637)">
+    <path d="m0 0c-10.293 0-18.637 8.344-18.637 18.636 0 10.293 8.344 18.636 18.637 18.636 5.097 0 9.714-2.047 13.078-5.363l-3.835-3.305c-2.426 2.25-5.673 3.628-9.243 3.628-7.509 0-13.597-6.086-13.597-13.596 0-7.508 6.088-13.596 13.597-13.596 5.725 0 9.99 3.706 11.372 9.75h-11.685l-0.021 4.965h17.331l0.029-1.924c0-10.293-7.142-17.831-17.026-17.831" fill="#27273e"/>
+   </g>
+   <g transform="translate(53.389,14.985)">
+    <path d="m0 0v-7.155h-4.564v7.155h-7.155v4.563h7.155v7.155h4.564v-7.155h7.154v-4.563z" fill="#27273e"/>
+   </g>
+  </g>
+ </g>
+</svg>

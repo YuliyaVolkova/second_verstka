@@ -1,0 +1,3 @@
+.c-group-of-articles__article:last-child .c-article {
+	border-bottom: none;
+}

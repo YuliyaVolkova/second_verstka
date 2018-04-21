@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="prev" width="11" height="18" version="1.1" viewBox="0 0 11 18" xmlns="http://www.w3.org/2000/svg">
+ <title>Prev</title>
+ <defs>
+  <clipPath id="clipPath18">
+   <path d="M 0,24.985 H 14.613 V 0 H 0 Z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(-.64037 0 0 -.64037 10.171 17.007)">
+  <g clip-path="url(#clipPath18)">
+   <g transform="translate(2.1211,22.864)">
+    <path d="M 0,0 10.371,-10.372 0,-20.743" fill="none" stroke="#231f20" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+   </g>
+  </g>
+ </g>
+</svg>

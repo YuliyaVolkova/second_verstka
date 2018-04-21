@@ -1,0 +1,51 @@
+.c-partners {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.c-partners__card {
+	width: 33%;
+	margin-bottom: 1.25rem;
+}
+
+.c-partners__link {
+	display: block;
+	width: 10em;
+	height: 5em;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
+	transition: 0.3s;
+}
+
+.c-partners__link:hover {
+	filter: grayscale(0);
+	-webkit-filter: grayscale(0);
+}
+.c-partners__link--svg-background-winter {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#winter);
+}
+
+.c-partners__link--svg-background-achmatova {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#achmatova);
+}
+
+.c-partners__link--svg-background-avantage {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#avantage);
+}
+
+.c-partners__link--svg-background-backery {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#backery);
+}
+
+.c-partners__link--svg-background-drop {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#drop);
+}
+
+.c-partners__link--svg-background-furniture {
+	background-image: url(../../images/public/sprites/sprite_partners.svg#furniture);
+}

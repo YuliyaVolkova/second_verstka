@@ -1,0 +1,35 @@
+.c-navigation {
+	font-size: 0.75rem;
+	padding: 0.516em 0;
+}
+
+.c-navigation__item {
+	margin-bottom: 2.5em;
+}
+
+.c-navigation__link {
+	display: block;
+	line-height: 1.425em;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ec1e79;
+	transition: color 0.3s;
+}
+
+.c-navigation__link:hover,
+.c-navigation__item--is-active .c-navigation__link {
+	color: #221f1f;
+}
+
+.c-navigation__icon {
+	width: 1.5em;
+	height: 1.5em;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 1.6em;
+}
+.c-navigation__link-text {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 75%;
+}

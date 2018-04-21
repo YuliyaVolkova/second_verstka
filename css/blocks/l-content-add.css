@@ -1,0 +1,11 @@
+.l-content-add {
+
+}
+
+.l-content-add__container {
+	width: 65vw;
+	margin: 0em auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}

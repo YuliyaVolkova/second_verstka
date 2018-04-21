@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="33" height="36" star="" version="1.1" viewBox="0 0 33 36" xmlns="http://www.w3.org/2000/svg">
+ <title>Star</title>
+ <defs>
+  <clipPath id="clipPath20">
+   <path d="m0 2h160v160h-160z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1.5 0 0 1.5002 -.76604 4.4161)" stroke-width=".66662">
+  <g transform="matrix(1.3333 0 0 -1.3333 .83333 20.507)" stroke-width=".66662">
+   <g transform="scale(.1)" stroke-width=".66662">
+    <g clip-path="url(#clipPath20)" stroke-width=".66662">
+     <path fill="#fff" d="M 80,39.809 129.449,10.012 116.371,66.219 160,104.031 102.461,108.988 80,162 57.539,108.988 0,104.031 43.629,66.219 30.551,10.012 Z" stroke-width=".66662"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

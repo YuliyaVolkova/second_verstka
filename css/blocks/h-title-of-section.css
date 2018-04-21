@@ -1,0 +1,12 @@
+.h-title-of-section {
+	font-size: 3.0625rem;
+	font-weight: bold;
+	line-height: 1.245em;
+	padding-left: 1.25rem;
+	margin-bottom: 3.75rem;
+	width: 100%;
+}
+
+.h-title-of-section--with-marg_bott-0_625rem {
+	margin-bottom: 0.625rem;
+}

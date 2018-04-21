@@ -1,0 +1,19 @@
+.c-button {
+	font-size: 0.75rem;
+	letter-spacing: 0.16em;
+	width: 15em;
+	height: 3.75em;
+	border-radius: 0.25em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	border: 1px solid transparent;
+	cursor: pointer;
+	transition: background-color 0.5s;
+}
+
+.c-button__text {
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+}

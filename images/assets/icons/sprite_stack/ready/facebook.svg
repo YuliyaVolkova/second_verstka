@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="facebook" width="33" height="36" version="1.1" viewBox="0 0 33 36" xmlns="http://www.w3.org/2000/svg">
+ <title>Facebook</title>
+ <defs>
+  <clipPath id="clipPath18">
+   <path d="M 0,51.856 H 23.936 V 0 H 0 Z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(.67495 0 0 -.67495 8.68 35.518)">
+  <g clip-path="url(#clipPath18)">
+   <g transform="translate(23.936,42.77)">
+    <path d="m0 0h-5.651c-1.996 0-2.412-0.816-2.412-2.881v-4.986h8.063l-0.777-8.755h-7.286v-26.148h-10.441v26.038h-5.432v8.865h5.432v6.98c0 6.551 3.503 9.973 11.274 9.973h7.23z" fill="#27273e"/>
+   </g>
+  </g>
+ </g>
+</svg>

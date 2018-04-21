@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="star1" width="31" height="30" version="1.1" viewBox="0 0 31 30" xmlns="http://www.w3.org/2000/svg">
+ <title>star1</title>
+ <defs>
+  <clipPath id="clipPath18">
+   <path d="M 0,21.357 H 22.303 V 0 H 0 Z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1.3333 0 0 -1.3333 .57092 29.162)">
+  <g clip-path="url(#clipPath18)">
+   <g transform="translate(11.151 19.857)">
+    <path d="m0 0 2.982-6.043 6.669-0.969-4.826-4.704 1.14-6.641-5.965 3.135-5.965-3.135 1.14 6.641-4.826 4.704 6.669 0.969z" fill="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5%"/>
+   </g>
+  </g>
+ </g>
+</svg>

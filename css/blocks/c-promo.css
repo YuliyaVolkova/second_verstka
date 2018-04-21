@@ -1,0 +1,14 @@
+.c-promo {
+	width: 100%;
+	font-size: 18px;
+	padding: 1.6667em;
+	text-align: left;
+	color: #fff;
+	font-weight: 300;
+	line-height: 1.6667em;
+}
+
+.c-promo strong {
+	font-weight: bold;
+	color: #ec1e79;
+}

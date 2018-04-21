@@ -1,0 +1,15 @@
+.l-header {
+width: 100%;
+min-height: 6rem;
+background-color: #27273e;
+display: flex;
+}
+.l-header__inner {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.l-header--with-marg_bott-2_8125rem {
+	margin-bottom: 2.8125rem;
+}

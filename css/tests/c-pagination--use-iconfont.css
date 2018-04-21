@@ -1,0 +1,94 @@
+/*-------html------------
+<!-----------use font icon----------
+<a href="#" class="c-pagination__link
+c-pagination__link--use-icon-font c-pagination__link--prev c-pagination__link--is-disabled" aria-hidden="true"><span class="is-display-block block--have-text-indent">на предыдущую страницу</span></a>
+<a href="#" class="c-pagination__link c-pagination__link--use-icon-font c-pagination__link--next" aria-hidden="true"><span class="is-display-block block--have-text-indent">на следующую страницу</span></a>*/
+.c-pagination {
+	width: 100%;
+	text-align: center;
+}
+.c-pagination__info {
+	display: inline-block;
+	font-weight: 300;
+	font-size: 0.875em;
+	color: #656464;	
+	margin-right: 0.7143px;
+	max-width: 50%;
+	vertical-align: middle;
+}
+.c-pagination__bl-change-page {
+	display: inline-block;
+	vertical-align: middle;
+}
+.c-pagination__link {
+	display: block;
+	font-weight: bold;
+	color: #221f1f;
+	width: 100%;
+	height: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	transition: color 0.3s;
+}
+
+.c-pagination__link--use-icon-font {
+	display: inline-block;
+	width: 1.786em;
+	height: 1.786em;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: 0.875em;
+	font-weight: bold;
+  	text-rendering: auto;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+  	vertical-align: middle;
+  	position: relative;
+}
+.c-pagination__link--use-icon-font:before {
+	content: "";
+	display: inline-block;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 100%;
+  	height: 100%;
+  	line-height: 1.786em;
+}
+.c-pagination__link--prev:before {
+	content: "\f104";
+}
+.c-pagination__link--next:before {
+	content: "\f105";
+}
+.c-pagination__link--is-disabled:before {
+	opacity: 0.3;
+}
+.c-pagination__item--is-active {
+	background-color: #27273e;
+}
+.c-pagination__item--is-active .c-pagination__link {
+	color: #fff;
+}
+.c-pagination__list {
+	display: inline-block;
+	font-size: 0px;
+	vertical-align: middle;
+	margin: 0px 0.3125rem; 
+}
+.c-pagination__item {
+	display: inline-block;
+	font-size: 0.875rem;
+	width: 1.786em;
+	height: 1.786em;
+	border-radius: 0.1429em;
+	vertical-align: middle;
+	transition: background-color 0.3s;
+}
+/.c-pagination__link--use-icon-font:hover, 
+.c-pagination__item:hover .c-pagination__link {
+	color: #ae2264;
+}
+.c-pagination__item:hover {
+	cursor: pointer;
+} 
